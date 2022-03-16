@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<h1>Student Profile</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Colum2: </th>
+	<th>Colum3: </th>
+	<th>Colum4: </th>
+
+   <tr>
+    <td>ACERO, gerald michael M</td>
+  </tr>
+  
+   <tr>
+    <td>BONDOC, blanche kaye G</td>
+  </tr>
+  
+  <tr>
+    <td>BOTABARA, jerinna marie P</td>
+  </tr>
+  
+  <tr>
+    <td>ERANDIO, jessther B</td>
+  </tr>
+  
+   <tr>
+    <td>GERONIMO, cherilyn marie B</td>
+  </tr>
+  
+   <tr>
+    <td>GUIRIBA, ralph Kevin</td>
+  </tr>
+  
+   <tr>
+    <td>JULIAN, ingrid hazel C</td>
+  </tr>
+  
+   <tr>
+    <td>LALANGAN, jennifer E</td>
+  </tr>
+  
+   <tr>
+    <td>LEAGUE, axel john G</td>
+  </tr>
+  
+   <tr>
+    <td>MALATE, hanz ian C</td>
+  </tr>
+  
+   <tr>
+    <td>MANLANGIT, norie may A</td>
+  </tr>
+  
+   <tr>
+    <td>MONTEREY, maricar S</td>
+  </tr>
+  
+   <tr>
+    <td>NAVAREZ, joshua R</td>
+  </tr>
+  
+   <tr>
+    <td>NAVARRO, geneses A</td>
+  </tr>
+  
+  <tr>
+    <td>OLIVAREZ, danielle E</td>
+  </tr>
+  
+  <tr>
+    <td>RIVERA, john cedric M</td>
+  </tr>
+  
+  <tr>
+    <td>SERAC, aaron redd M</td>
+  </tr>
+  
+  <tr>
+    <td>TINGA, hanna collin A</td>
+  </tr>
+  
+  <tr>
+    <td>TURNO, regine P</td>
+  </tr>
+  
+  <tr>
+    <td>VALDE, jemmalyn M</td>
+  </tr>
+  
+  <tr>
+    <td>VILLANUEVA, dianne M</td>
+  </tr>
+  
+  <tr>
+    <td>VIRAY, robert M</td>
+  </tr>
+ 
+</table>
+
+</body>
+</html>
